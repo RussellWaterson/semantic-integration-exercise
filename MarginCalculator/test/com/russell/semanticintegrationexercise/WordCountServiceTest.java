@@ -20,7 +20,7 @@ public class WordCountServiceTest {
 		
 		//When there is different punctuation, letter cases, and whitespace
 		Map<String, Integer> expected = new HashMap<>();
-        expected.put("hello", 7);
+		expected.put("hello", 7);
 		assertEquals("Result", expected, wordCountService.countWords("Hello hello hello! hello. hello!? 	hello\n hello"));
 		
 		//When there is a normal string with a mixture of words, punctuation, and letter cases

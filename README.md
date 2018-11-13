@@ -1,6 +1,6 @@
 # Semantic Integration Technical Test
 
-Here is my solution for the Semantic Integration software developer techinal test along with implemented unit tests for each.
+Here is my solution for the Semantic Integration software developer technical test along with implemented unit tests for each.
 
 ### Margin Calculator
 
